@@ -7,6 +7,3 @@ Notes on "Computer Networks"
 
 - Source : https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_ (Gate Smashers) 
 
-
-- PDF(of notes): https://drive.google.com/file/d/1lkGFmpaa6uesjPUBHBdbgIdICWVC2jqm/view?usp=sharing
-
